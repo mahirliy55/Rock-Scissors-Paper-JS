@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+}
+.game-img{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8em;
+}
+.game-img img{
+    width: 40vh;
+    height: 40vh;
+    cursor: pointer;
+}
